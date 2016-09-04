@@ -1,20 +1,4 @@
-name: gic
-favicon: null
-layout_spectrum: 0.49519
 typography_spectrum: 0.6449044500477612
-title: Glass Images & Creations Inc.
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -26,4 +10,25 @@ color:
   lightness: 0.9539471992757171
   saturation: 0.6186075964942575
   rhythmicContrast: 0.7388584911823273
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.49519
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: gic
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Shower Doors
+    url: >-
+      https://photos.google.com/album/AF1QipOjm_CeSckPiqrPIwQiuqbffddvNFIsyTjzyh2z
+    type: external
+favicon: null
+title: Glass Images & Creations Inc.
 purpose: []
