@@ -5,19 +5,17 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Fibernet Corporation
-datePublished: '2016-07-28T20:50:22.840Z'
-dateModified: '2016-07-28T20:50:16.206Z'
+datePublished: '2016-09-01T15:25:15.458Z'
+dateModified: '2016-07-28T20:50:28.308Z'
 title: cast glass counter
 author:
   - name: ''
     url: ''
 via: {}
-authors: []
-publisher:
-  name: ''
-  url: ''
-starred: false
 sourcePath: _posts/2016-07-28-cast-glass-counter.md
+authors: []
+publisher: {}
+starred: false
 url: cast-glass-counter/index.html
 _type: Article
 
